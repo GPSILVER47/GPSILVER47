@@ -3,5 +3,5 @@
 - I develop worlds & avatars for a game called "VRChat". VRChat is https://en.wikipedia.org/wiki/VRChat You really can do anything there.
 - 🌱 I’m currently learning Houdini, Nuke, Coding. Learning everyday more & more :)
 - 💞️ I’m looking to collaborate on Game Development, Movies, Short Films etc.
-- 📫 You can reach me via Mail: gpsilver123@gmail.com or via https://linktr.ee/GPSILVER
+- 📫 You can reach me via https://linktr.ee/GPSILVER
 
